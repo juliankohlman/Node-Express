@@ -1,0 +1,17 @@
+{
+  "name": "Node-Express",
+  "version": "1.0.0",
+  "description": "Node-Express Assignment",
+  "main": "server.js",
+  "repository": "https://github.com/juliankohlman/Node-Express.git",
+  "author": "Julian Kohlman <juliankohlman@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  }
+}
